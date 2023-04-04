@@ -1,0 +1,23 @@
+.label {
+  color: #ffffff;
+}
+.type-heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  margin: 20px 0px 15px;
+}
+.types-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.checkbox {
+  margin-right: 10px;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
